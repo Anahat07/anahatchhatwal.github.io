@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/anahatchhatwal.github.io/static/css/main.cb727580.css",
+    "main.js": "/anahatchhatwal.github.io/static/js/main.b825c340.js",
+    "static/css/360.dd75d851.chunk.css": "/anahatchhatwal.github.io/static/css/360.dd75d851.chunk.css",
+    "static/js/360.8338e7ed.chunk.js": "/anahatchhatwal.github.io/static/js/360.8338e7ed.chunk.js",
+    "static/css/17.620086e2.chunk.css": "/anahatchhatwal.github.io/static/css/17.620086e2.chunk.css",
+    "static/js/17.1fb26325.chunk.js": "/anahatchhatwal.github.io/static/js/17.1fb26325.chunk.js",
+    "static/css/321.917a0bef.chunk.css": "/anahatchhatwal.github.io/static/css/321.917a0bef.chunk.css",
+    "static/js/321.25cd8f99.chunk.js": "/anahatchhatwal.github.io/static/js/321.25cd8f99.chunk.js",
+    "static/css/111.969562af.chunk.css": "/anahatchhatwal.github.io/static/css/111.969562af.chunk.css",
+    "static/js/111.002a915f.chunk.js": "/anahatchhatwal.github.io/static/js/111.002a915f.chunk.js",
+    "static/js/142.06a24ba6.chunk.js": "/anahatchhatwal.github.io/static/js/142.06a24ba6.chunk.js",
+    "static/media/polaroid.ttf": "/anahatchhatwal.github.io/static/media/polaroid.c9da976c6f9088d1b3c9.ttf",
+    "static/media/revicons.eot": "/anahatchhatwal.github.io/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/anahatchhatwal.github.io/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/anahatchhatwal.github.io/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/anahatchhatwal.github.io/index.html",
+    "main.cb727580.css.map": "/anahatchhatwal.github.io/static/css/main.cb727580.css.map",
+    "main.b825c340.js.map": "/anahatchhatwal.github.io/static/js/main.b825c340.js.map",
+    "360.dd75d851.chunk.css.map": "/anahatchhatwal.github.io/static/css/360.dd75d851.chunk.css.map",
+    "360.8338e7ed.chunk.js.map": "/anahatchhatwal.github.io/static/js/360.8338e7ed.chunk.js.map",
+    "17.620086e2.chunk.css.map": "/anahatchhatwal.github.io/static/css/17.620086e2.chunk.css.map",
+    "17.1fb26325.chunk.js.map": "/anahatchhatwal.github.io/static/js/17.1fb26325.chunk.js.map",
+    "321.917a0bef.chunk.css.map": "/anahatchhatwal.github.io/static/css/321.917a0bef.chunk.css.map",
+    "321.25cd8f99.chunk.js.map": "/anahatchhatwal.github.io/static/js/321.25cd8f99.chunk.js.map",
+    "111.969562af.chunk.css.map": "/anahatchhatwal.github.io/static/css/111.969562af.chunk.css.map",
+    "111.002a915f.chunk.js.map": "/anahatchhatwal.github.io/static/js/111.002a915f.chunk.js.map",
+    "142.06a24ba6.chunk.js.map": "/anahatchhatwal.github.io/static/js/142.06a24ba6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb727580.css",
+    "static/js/main.b825c340.js"
+  ]
+}
